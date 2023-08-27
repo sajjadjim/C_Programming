@@ -1,9 +1,12 @@
 #include<stdio.h>
-struct student{
+struct student
+{
 int data;
 struct node *next;
 } a,b,c,d;
-int main(){
+
+int main()
+{
 a.data=10;
 b.data=20;
 c.data = 30;
