@@ -1,5 +1,6 @@
 #include<stdio.h>
 struct student
+
 {
 int data;
 struct node *next;
